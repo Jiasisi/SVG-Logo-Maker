@@ -13,8 +13,7 @@ My task this week is to build a Node.js command-line application that takes in u
 ## Review
 
 * A walkthrough video:
-
-
+https://drive.google.com/file/d/1Vjc466HlQdb5jIiXoV7XgwzkCYB8bPdt/view?usp=sharing
 
 * The URL of the GitHub repository:
 https://github.com/Jiasisi/SVG-Logo-Maker
